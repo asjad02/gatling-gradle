@@ -1,0 +1,10 @@
+{
+  "simulation": "webservice.gatling.simulations.WebServiceCallSimulation",
+  "simulationId": "webservicecallsimulation",
+  "start": 1562505926815,
+  "description": "",
+  "scenarios": ["webservice-call-greeting-scenario"],
+  "assertions": [
+
+  ]
+}

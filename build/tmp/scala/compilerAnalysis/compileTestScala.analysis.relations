@@ -1,0 +1,12 @@
+products:
+   src/test/scala/webservice/gatling/simulations/WebServiceCallSimulation.scala -> build/classes/test/webservice/gatling/simulations/WebServiceCallSimulation.class
+binary dependencies:
+   src/test/scala/webservice/gatling/simulations/WebServiceCallSimulation.scala -> /home/asjad/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-commons/2.3.0/fc017fa7bba948954a25219cdd1262b166a6e921/gatling-commons-2.3.0.jar
+   src/test/scala/webservice/gatling/simulations/WebServiceCallSimulation.scala -> /home/asjad/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-core/2.3.0/dd80c883fc7c4f4e6d961ac0eb3668ce045d06ef/gatling-core-2.3.0.jar
+   src/test/scala/webservice/gatling/simulations/WebServiceCallSimulation.scala -> /home/asjad/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-http/2.3.0/8b7bd3cc1928b8076e65d077e24d634eebde2c75/gatling-http-2.3.0.jar
+   src/test/scala/webservice/gatling/simulations/WebServiceCallSimulation.scala -> /home/asjad/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.3/f2e496f21af2d80b48e0a61773f84c3a76a0d06f/scala-library-2.12.3.jar
+   src/test/scala/webservice/gatling/simulations/WebServiceCallSimulation.scala -> /usr/lib/jvm/jdk1.8.0_211/jre/lib/rt.jar
+source dependencies:
+external dependencies:
+class names:
+   src/test/scala/webservice/gatling/simulations/WebServiceCallSimulation.scala -> webservice.gatling.simulations.WebServiceCallSimulation
